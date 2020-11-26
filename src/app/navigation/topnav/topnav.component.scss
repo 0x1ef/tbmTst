@@ -1,0 +1,22 @@
+@import "~@angular/material/theming";
+@import '../../../assets/scss/variables';
+
+.hide {
+  visibility: hidden;
+}
+
+.app-flex-filler {
+  flex: 1 1 auto;
+}
+
+.user {
+  font-size: 0.9rem;
+
+  .user-name {
+    margin-left: 7px;
+  }
+  
+}
+.mat-menu-item {
+  line-height: 20px;
+}
